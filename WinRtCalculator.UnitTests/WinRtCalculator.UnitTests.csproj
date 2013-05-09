@@ -9,8 +9,8 @@
     <ProjectGuid>{FB5CB031-D168-4346-93E8-BA5CDFA48194}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>UnitTestLibrary1</RootNamespace>
-    <AssemblyName>UnitTestLibrary1</AssemblyName>
+    <RootNamespace>WinRtCalculator.UnitTests</RootNamespace>
+    <AssemblyName>WinRtCalculator.UnitTests</AssemblyName>
     <DefaultLanguage>en-US</DefaultLanguage>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{BC8A1FFA-BEE3-4634-8014-F334798102B3};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -135,9 +135,9 @@
     </Content>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\App1\App1.csproj">
+    <ProjectReference Include="..\App1\WinRtCalculator.csproj">
       <Project>{D018E1CF-4519-453C-A87A-56A216235041}</Project>
-      <Name>App1</Name>
+      <Name>WinRtCalculator</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '11.0' ">

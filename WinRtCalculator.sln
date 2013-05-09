@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App1", "App1\App1.csproj", "{D018E1CF-4519-453C-A87A-56A216235041}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinRtCalculator", "WinRtCalculator\WinRtCalculator.csproj", "{D018E1CF-4519-453C-A87A-56A216235041}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestLibrary1", "UnitTestLibrary1\UnitTestLibrary1.csproj", "{FB5CB031-D168-4346-93E8-BA5CDFA48194}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinRtCalculator.UnitTests", "WinRtCalculator.UnitTests\WinRtCalculator.UnitTests.csproj", "{FB5CB031-D168-4346-93E8-BA5CDFA48194}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
